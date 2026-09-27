@@ -13,7 +13,7 @@ const categoryMeta = {
   },
   breloki: {
     name: "Breloki",
-    description: "Małe dodatki, które ocieplają klucze, torebkę albo prezent.",
+    description: "Galeria breloków jest na razie pusta — uzupełnimy ją wkrótce.",
     image: "zdjecia-kategorii/breloki.jpg"
   },
   frotki: {

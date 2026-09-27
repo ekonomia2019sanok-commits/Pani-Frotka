@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Przypinki handmade | Pani-frotka</title>
+  <meta name="description" content="Przypinki handmade Pani-frotka — autorskie produkty tworzone z sercem. Obejrzyj ofertę i zapytaj o swój wzór.">
+  <link rel="canonical" href="https://ekonomia2019sanok-commits.github.io/pani-frotka-strona/kategorie/przypinki.html">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="apple-touch-icon" href="../apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&family=Marck+Script&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css?v=18">
+</head>
+<body data-category="przypinki">
+  <header class="site-header">
+    <nav class="nav" aria-label="Główne menu">
+      <a class="brand" href="../index.html#home" aria-label="Pani-frotka — strona główna">
+        <img class="brand__logo" src="../logo.jpg" alt="Logo Pani-frotka">
+        <span class="brand__name">Pani-frotka</span>
+      </a>
+      <div class="nav__links nav__links--static">
+        <a href="../index.html#home">Strona główna</a>
+        <a href="../o-mnie.html">O mnie</a>
+        <a href="../index.html#produkty">Kategorie</a>
+        <a href="../index.html#kontakt">Kontakt</a>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <section class="section category-page">
+      <div class="catalog__top category-page__top">
+        <div>
+          <p class="eyebrow">Katalog handmade</p>
+          <h1 class="category-page__title" id="categoryTitle">Przypinki</h1>
+          <p id="categoryDescription">Ręcznie tworzone produkty Pani-frotka.</p>
+        </div>
+        <a class="button button--small button--ghost" href="../index.html#produkty">Wszystkie kategorie</a>
+      </div>
+      <div class="series-view" id="seriesView">
+        <div class="series-grid" id="seriesGrid"></div>
+      </div>
+      <div class="gallery-view" id="galleryView" hidden>
+        <div class="pattern-grid" id="patternGrid"></div>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">
+    <p>Pani-frotka © <span id="year"></span>. Handmade tworzone z sercem.</p>
+  </footer>
+  <script src="../products-data.js?v=18"></script>
+  <script src="../category-page.js?v=18"></script>
+</body>
+</html>

@@ -10,37 +10,16 @@
   "breloki": {
     "meta": {
       "name": "Breloki",
-      "description": "Małe dodatki, które ocieplają klucze, torebkę albo prezent.",
+      "description": "Galeria breloków jest na razie pusta — uzupełnimy ją wkrótce. Sekcje dostępności i zamówień pozostają.",
       "image": "zdjecia-kategorii/breloki.jpg"
     },
-    "items": [
-      {
-        "image": "zdjecia-produktow/breloki/BRE_1.jpg",
-        "title": "Brelok z logo"
-      },
-      {
-        "image": "zdjecia-produktow/breloki/BRE_2.jpg",
-        "title": "Brelok handmade"
-      },
-      {
-        "image": "zdjecia-produktow/breloki/BRE_3.jpg",
-        "title": "Brelok z grafiką"
-      }
-    ]
+    "items": []
   },
   "frotki": {
     "meta": {
       "name": "Frotki",
       "description": "Delikatne dla włosów, lekkie i szyte w krótkich seriach.",
       "image": "zdjecia-kategorii/frotki.jpg"
-    },
-    "items": []
-  },
-  "kosmetyczka": {
-    "meta": {
-      "name": "Kosmetyczka",
-      "description": "Poręczne kosmetyczki z kobiecymi motywami na co dzień i w podróż.",
-      "image": "zdjecia-kategorii/kosmetyczki.jpg"
     },
     "items": []
   },
@@ -801,6 +780,1134 @@
       "description": "Lekki worek na plecy, który lubi codzienne wyjścia.",
       "image": "zdjecia-kategorii/workoplecaki.jpg"
     },
+    "items": [],
+    "Afrykański styl": [
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_12.png"
+      }
+    ],
+    "Anioły Bieszczadzkie": [
+      {
+        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_04.png"
+      }
+    ],
+    "Bieszczady": [
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_13.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_15.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_16.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_17.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_18.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_19.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_20.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_21.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_22.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_23.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_24.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_25.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_26.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_27.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_28.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_29.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_30.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_31.png"
+      }
+    ],
+    "Bieszczadzki klimat": [
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_01_wilk.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_02_wilk.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_03_niedźwiedź.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_04_rys.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_05_ żubr.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_06_jeleń.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_07_jastrząb.png"
+      }
+    ],
+    "Bieszczadzkie zwierzęta": [
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_13.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_14.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_15.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_16.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_17.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_18.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_19.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_20.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_21.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_22.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_23.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_24.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_25.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_26.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_27.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_28.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_29.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_30.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_31.png"
+      }
+    ],
+    "Kolorowe Ptaki": [
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_13.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_14.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_15.png"
+      }
+    ],
+    "Kolorowe zwierzaki": [
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_13.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_14.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_15.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_16.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_17.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_18.png"
+      }
+    ],
+    "Konie": [
+      {
+        "image": "zdjecia-produktow/torby/Konie/KO_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Konie/KO_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Konie/KO_03.png"
+      }
+    ],
+    "Kwiaty": [
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_13.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_14.png"
+      }
+    ],
+    "Miasta": [
+      {
+        "image": "zdjecia-produktow/torby/Miasta/LESKO.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Miasta/SANOK.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Miasta/ZAGÓRZ.png"
+      }
+    ],
+    "Motoryzacja": [
+      {
+        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_04.png"
+      }
+    ],
+    "Owady": [
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Owady/OW_13.png"
+      }
+    ],
+    "Retro Bieszczady": [
+      {
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_05.png"
+      }
+    ],
+    "Rzuć wszystko i jedź w Bieszczady": [
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_01.PNG"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_02.PNG"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_13.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_14.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_15.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_16.png"
+      }
+    ],
+    "Warzywa": [
+      {
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_05.png"
+      }
+    ],
+    "Zwierzęta profilem": [
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_13.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_14.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_15.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_16.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_17.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_18.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_19.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_20.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_21.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_22.png"
+      }
+    ],
+    "Zwierzęta żółte tło": [
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_09.png"
+      }
+    ],
+    "Zwięrzęta Afryki": [
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_01.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_02.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_03.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_04.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_05.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_06.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_07.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_08.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_09.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_10.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_11.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_12.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_13.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_14.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_15.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_16.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_17.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_18.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_19.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_20.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_21.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_22.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_23.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_24.png"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_25.png"
+      }
+    ]
+  },
+  "przypinki": {
+    "meta": {
+      "name": "Przypinki",
+      "description": "Okrągłe przypinki z tymi samymi wzorami co magnesy okrągłe.",
+      "image": "assets/category-crops/przypinki.png",
+      "price": "5 zł"
+    },
     "items": []
+  },
+  "magnesy": {
+    "meta": {
+      "name": "Magnesy",
+      "description": "Magnesy kwadratowe i prostokątne: najczęściej 5 × 7 cm lub 5 × 5 cm, grubość 0,8 mm. Magnesy okrągłe mają średnicę 59 mm.",
+      "image": "assets/category-crops/magnesy.png",
+      "price": "5 zł"
+    },
+    "items": [],
+    "Magnesy prostokątne i kwadratowe": [
+      {
+        "title": "Pojebie mnie zaraz",
+        "image": "zdjecia-produktow/magnesy/pojebie-mnie-zaraz.png"
+      },
+      {
+        "title": "Kawa nie zadaje głupich pytań",
+        "image": "zdjecia-produktow/magnesy/kawa-nie-zadaje-pytan.png"
+      },
+      {
+        "title": "Mam dobre serce, ale krótką cierpliwość",
+        "image": "zdjecia-produktow/magnesy/dobre-serce-krotka-cierpliwosc.png"
+      },
+      {
+        "title": "Mądrość słonia",
+        "image": "zdjecia-produktow/magnesy/madrosc-slonia.png"
+      },
+      {
+        "title": "Nie mam czasu na głupich ludzi",
+        "image": "zdjecia-produktow/magnesy/nie-mam-czasu-na-glupich-ludzi.png"
+      },
+      {
+        "title": "Życie jest za krótkie, żeby być normalną",
+        "image": "zdjecia-produktow/magnesy/zycie-jest-za-krotkie.png"
+      },
+      {
+        "title": "Po prostu Bieszczady — żubr",
+        "image": "zdjecia-produktow/magnesy/po-prostu-bieszczady-zubr.png"
+      },
+      {
+        "title": "Po prostu Bieszczady — ryś",
+        "image": "zdjecia-produktow/magnesy/po-prostu-bieszczady-rys.png"
+      },
+      {
+        "title": "Po prostu Bieszczady — niedźwiedź",
+        "image": "zdjecia-produktow/magnesy/po-prostu-bieszczady-niedzwiedz.png"
+      },
+      {
+        "title": "Po prostu Bieszczady — jeleń",
+        "image": "zdjecia-produktow/magnesy/po-prostu-bieszczady-jelen.png"
+      },
+      {
+        "title": "Po prostu Bieszczady — wilk",
+        "image": "zdjecia-produktow/magnesy/po-prostu-bieszczady-wilk.png"
+      }
+    ],
+    "Magnesy okrągłe 59 mm": [
+      {
+        "title": "Jakoś to będzie",
+        "image": "zdjecia-produktow/magnesy/okragle-59/01-jakos-to-bedzie.png"
+      },
+      {
+        "title": "Dziś odpuszczam",
+        "image": "zdjecia-produktow/magnesy/okragle-59/02-dzis-odpuszczam.png"
+      },
+      {
+        "title": "Mam limit",
+        "image": "zdjecia-produktow/magnesy/okragle-59/03-mam-limit.png"
+      },
+      {
+        "title": "Nie wszystko naraz",
+        "image": "zdjecia-produktow/magnesy/okragle-59/04-nie-wszystko-naraz.png"
+      },
+      {
+        "title": "Nie pytaj",
+        "image": "zdjecia-produktow/magnesy/okragle-59/05-nie-pytaj.png"
+      },
+      {
+        "title": "Dzisiaj nic nie muszę",
+        "image": "zdjecia-produktow/magnesy/okragle-59/06-dzisiaj-nic-nie-musze.png"
+      },
+      {
+        "title": "Małymi krokami",
+        "image": "zdjecia-produktow/magnesy/okragle-59/07-malymi-krokami.png"
+      },
+      {
+        "title": "1% cierpliwości",
+        "image": "zdjecia-produktow/magnesy/okragle-59/08-jeden-procent-cierpliwosci.png"
+      },
+      {
+        "title": "Wszystko w swoim czasie",
+        "image": "zdjecia-produktow/magnesy/okragle-59/09-wszystko-w-swoim-czasie.png"
+      },
+      {
+        "title": "Daję radę... chyba",
+        "image": "zdjecia-produktow/magnesy/okragle-59/10-daje-rade-chyba.png"
+      },
+      {
+        "title": "Kot rządzi. Ty płacisz.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/11-kot-rzadzi-ty-placisz.png"
+      },
+      {
+        "title": "Rób to, co kochasz. Ja wybrałem drzemkę.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/12-rob-to-co-kochasz-drzemka.png"
+      },
+      {
+        "title": "Nie pytaj. Ja po prostu jem marchewkę i jest mi dobrze.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/13-marchewka-jest-mi-dobrze.png"
+      },
+      {
+        "title": "To nie ja.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/14-to-nie-ja.png"
+      },
+      {
+        "title": "Dzień dobry.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/15-dzien-dobry.png"
+      },
+      {
+        "title": "Kawa rządzi.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/16-kawa-rzadzi.png"
+      },
+      {
+        "title": "Spokój to mój superpower.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/17-spokoj-to-moj-superpower.png"
+      },
+      {
+        "title": "Muuu-szę odpocząć",
+        "image": "zdjecia-produktow/magnesy/okragle-59/18-muuusze-odpoczac.png"
+      },
+      {
+        "title": "Bez spiny.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/19-bez-spiny.png"
+      },
+      {
+        "title": "Płynę z nurtem.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/20-plyne-z-nurtem.png"
+      },
+      {
+        "title": "Dzisiaj tylko relaks.",
+        "image": "zdjecia-produktow/magnesy/okragle-59/21-dzisiaj-tylko-relaks.png"
+      },
+      {
+        "title": "Best friends",
+        "image": "zdjecia-produktow/magnesy/okragle-59/22-best-friends.png"
+      },
+      {
+        "title": "Najlepszy przyjaciel",
+        "image": "zdjecia-produktow/magnesy/okragle-59/23-najlepszy-przyjaciel.png"
+      },
+      {
+        "title": "Najlepsza przyjaciółka",
+        "image": "zdjecia-produktow/magnesy/okragle-59/24-najlepsza-przyjaciolka.png"
+      },
+      {
+        "title": "Najlepszy brat",
+        "image": "zdjecia-produktow/magnesy/okragle-59/25-najlepszy-brat.png"
+      },
+      {
+        "title": "Najlepsza siostra",
+        "image": "zdjecia-produktow/magnesy/okragle-59/26-najlepsza-siostra.png"
+      },
+      {
+        "title": "Najlepszy tata",
+        "image": "zdjecia-produktow/magnesy/okragle-59/27-najlepszy-tata.png"
+      },
+      {
+        "title": "Najlepszy tata — granatowy wzór",
+        "image": "zdjecia-produktow/magnesy/okragle-59/28-najlepszy-tata-2.png"
+      },
+      {
+        "title": "Najlepszy teść",
+        "image": "zdjecia-produktow/magnesy/okragle-59/29-najlepszy-tesc.png"
+      },
+      {
+        "title": "Najlepsza teściowa — kwiaty",
+        "image": "zdjecia-produktow/magnesy/okragle-59/30-najlepsza-tesciowa-kwiaty.png"
+      },
+      {
+        "title": "Najlepsza teściowa — czarownica",
+        "image": "zdjecia-produktow/magnesy/okragle-59/31-najlepsza-tesciowa-czarownica.png"
+      },
+      {
+        "title": "Najlepszy dziadek",
+        "image": "zdjecia-produktow/magnesy/okragle-59/32-najlepszy-dziadek.png"
+      },
+      {
+        "title": "Najlepsza mama — kwiaty",
+        "image": "zdjecia-produktow/magnesy/okragle-59/33-najlepsza-mama-kwiaty.png"
+      },
+      {
+        "title": "Najlepsza babcia — kwiaty",
+        "image": "zdjecia-produktow/magnesy/okragle-59/34-najlepsza-babcia-kwiaty.png"
+      },
+      {
+        "title": "Najlepsza babcia",
+        "image": "zdjecia-produktow/magnesy/okragle-59/35-najlepsza-babcia.png"
+      },
+      {
+        "title": "Najlepszy dziadek — granatowy wzór",
+        "image": "zdjecia-produktow/magnesy/okragle-59/36-najlepszy-dziadek-2.png"
+      },
+      {
+        "title": "Najlepsza mama — wianek",
+        "image": "zdjecia-produktow/magnesy/okragle-59/37-najlepsza-mama.png"
+      }
+    ]
+  },
+  "kosmetyczki": {
+    "meta": {
+      "name": "Kosmetyczki",
+      "description": "Poręczne kosmetyczki tworzone ręcznie na co dzień i w podróż.",
+      "image": "assets/category-crops/kosmetyczki.png",
+      "price": "25 zł"
+    },
+    "items": []
+  },
+  "kubki": {
+    "meta": {
+      "name": "Kubki",
+      "description": "Kubek o pojemności 330 ml, nadający się do mycia w zmywarce i ręcznie.",
+      "image": "assets/category-crops/kubki.png",
+      "price": "25 zł"
+    },
+    "items": [],
+    "Wzory grafik": [
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/inteligencja-i-kawa.png",
+        "title": "Inteligencja i kawa"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/limitowana-edycja.png",
+        "title": "Limitowana edycja"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/przed-kawa.png",
+        "title": "Przed kawą"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/spokoj-to-moj-superpower.png",
+        "title": "Spokój to mój superpower"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/bieszczady.jpg",
+        "title": "Bieszczady"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/nie-mam-sily.png",
+        "title": "Nie mam siły"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/limit-ludzi.png",
+        "title": "Mój limit ludzi"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/szlag-mnie-trafi.png",
+        "title": "Szlag mnie trafi"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/bycie-milym.png",
+        "title": "Bycie miłym"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/ochyje.png",
+        "title": "Ochyje"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/ocipie.png",
+        "title": "Ocipię"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/nie-wkurwiaj-mnie.png",
+        "title": "Nie wkurwiaj mnie"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/nie-chce-mi-sie.png",
+        "title": "Nie chce mi się"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/magazynuje-energie.png",
+        "title": "Magazynuję energię"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/czarny-kot.png",
+        "title": "Czarny kot"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/ksiezyc.jpg",
+        "title": "Księżyc"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/zubr.jpg",
+        "title": "Żubr"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/swierk.jpg",
+        "title": "Świerk"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/niedzwiedz.jpg",
+        "title": "Niedźwiedź"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/bieszczady-bez.png",
+        "title": "Bieszczady — beżowy wzór"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/rys-bieszczady.png",
+        "title": "Ryś — po prostu Bieszczady"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/jelen-bieszczady.png",
+        "title": "Jeleń — po prostu Bieszczady"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/niedzwiedz-bieszczady.png",
+        "title": "Niedźwiedź — po prostu Bieszczady"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/lesny-stworek-ksiezyc.png",
+        "title": "Leśny stworek i księżyc"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/lesna-opowiesc.png",
+        "title": "Leśna opowieść"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/kolorowa-postac-serca.png",
+        "title": "Kolorowa postać i serca"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/lesna-przygoda.png",
+        "title": "Leśna przygoda"
+      },
+      {
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/milcz-jak-do-mnie-mowisz.png",
+        "title": "Milcz, jak do mnie mówisz"
+      }
+    ],
+    "Dzień Chłopaka": [
+      {
+        "title": "Chłopak z klasą — dobry styl",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/chlopak-z-klasa-klasyk.png"
+      },
+      {
+        "title": "Chłopak z klasą — klasa to sposób bycia",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/chlopak-z-klasa-akcesoria.png"
+      },
+      {
+        "title": "Limitowana edycja",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/limitowana-edycja.png"
+      },
+      {
+        "title": "Życie zaczyna się poza strefą komfortu",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/poza-strefa-komfortu.png"
+      },
+      {
+        "title": "Level chłopak — więcej przygód",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/level-chlopak-przygoda.png"
+      },
+      {
+        "title": "Level chłopak — poza strefą komfortu",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/level-chlopak-komfort.png"
+      },
+      {
+        "title": "Złota rączka",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/zlota-raczka.png"
+      },
+      {
+        "title": "Level up chłopak",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/level-up-chlopak.png"
+      },
+      {
+        "title": "Chłopak — 100%",
+        "image": "zdjecia-produktow/wzory-kubki-magnesy/dzien-chlopaka/chlopak-100-procent.png"
+      }
+    ]
   }
 }

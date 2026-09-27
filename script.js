@@ -18,23 +18,10 @@ const fallbackProducts = {
   "breloki": {
     "meta": {
       "name": "Breloki",
-      "description": "Małe dodatki, które ocieplają klucze, torebkę albo prezent.",
+      "description": "Galeria breloków jest na razie pusta — uzupełnimy ją wkrótce.",
       "image": "zdjecia-kategorii/breloki.jpg"
     },
-    "Logo": [
-      {
-        "image": "zdjecia-produktow/breloki/BRE_1.jpg",
-        "title": "Brelok z logo"
-      },
-      {
-        "image": "zdjecia-produktow/breloki/BRE_2.jpg",
-        "title": "Brelok handmade"
-      },
-      {
-        "image": "zdjecia-produktow/breloki/BRE_3.jpg",
-        "title": "Brelok z grafika"
-      }
-    ]
+    "items": []
   },
   "frotki": {
     "meta": {
@@ -929,6 +916,7 @@ function renderCategories() {
     card.setAttribute("aria-label", `Zobacz kategorie ${meta.name}`);
     card.innerHTML = `
       <div class="category-card__image"></div>
+      ${!meta.image || meta.image.startsWith("assets/category-crops/") ? `<span class="category-card__label">${meta.name}</span>` : ""}
     `;
     card.querySelector(".category-card__image").appendChild(createImage(meta.image, meta.name));
     categoryGrid.appendChild(card);
