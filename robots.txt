@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ekonomia2019sanok-commits.github.io/pani-frotka-strona/sitemap.xml
+Sitemap: https://panifrotka.pl/sitemap.xml
