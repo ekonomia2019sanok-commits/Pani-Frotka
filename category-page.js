@@ -214,7 +214,7 @@ function renderCategory(category, catalog = {}) {
   } else if (!["magnesy", "box", "przypinki", "kosmetyczki"].includes(pageCategoryKey)) {
     appendSection("PRODUKTY NA ZAMÓWIENIE", patterns, { description: "Wybierz wzór, który Ci się podoba, i napisz do mnie. Razem ustalimy szczegóły." });
   }
-  appendOwnGraphic(meta.name);
+  if (pageCategoryKey !== "kosmetyczki") appendOwnGraphic(meta.name);
 }
 
 async function loadCategoryPage() {
