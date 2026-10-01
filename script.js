@@ -916,7 +916,7 @@ function renderCategories() {
     card.setAttribute("aria-label", `Zobacz kategorie ${meta.name}`);
     card.innerHTML = `
       <div class="category-card__image"></div>
-      ${!meta.image || meta.image.startsWith("assets/category-crops/") ? `<span class="category-card__label">${meta.name}</span>` : ""}
+      <span class="category-card__label">${meta.name}</span>
     `;
     card.querySelector(".category-card__image").appendChild(createImage(meta.image, meta.name));
     categoryGrid.appendChild(card);

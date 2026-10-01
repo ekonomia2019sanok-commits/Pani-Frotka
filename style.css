@@ -405,16 +405,21 @@ h1 {
   right: 10px;
   bottom: 10px;
   left: 10px;
-  padding: 11px 14px;
+  display: grid;
+  min-height: 62px;
+  box-sizing: border-box;
+  place-items: center;
+  padding: 10px 14px;
   border: 1px solid rgba(255, 250, 246, 0.72);
   border-radius: 15px;
-  background: rgba(255, 250, 246, 0.92);
+  background: rgba(255, 250, 246, 0.99);
   color: var(--brown);
   font-family: "Cormorant Garamond", Georgia, serif;
   font-size: clamp(1.15rem, 2vw, 1.55rem);
   font-weight: 700;
   text-align: center;
   box-shadow: var(--shadow-soft);
+  z-index: 1;
 }
 
 .catalog-section {
