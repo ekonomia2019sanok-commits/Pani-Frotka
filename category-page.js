@@ -151,17 +151,26 @@ function appendSection(title, items, { price = false, description = "", defaultP
     empty.textContent = "Już za chwileczkę, już za momencik… pracownia szykuje tu nowe wzory. Zajrzyj ponownie niedługo!";
     grid.appendChild(empty);
   }
-  const gallery = items.map((product) => ({
-    src: product.image,
-    title: product.title || product.name || pageTitleFromFile(product.image)
-  }));
+  const gallery = [];
+  const galleryStartIndexes = [];
+  items.forEach((product) => {
+    const productTitle = product.title || product.name || pageTitleFromFile(product.image);
+    const images = Array.isArray(product.images) && product.images.length ? product.images : [product.image];
+    galleryStartIndexes.push(gallery.length);
+    images.forEach((src, imageIndex) => {
+      gallery.push({
+        src,
+        title: images.length > 1 ? `${productTitle} — ${imageIndex === 0 ? "przód" : "tył"}` : productTitle
+      });
+    });
+  });
   items.forEach((product, index) => {
-    const titleText = gallery[index].title;
+    const titleText = product.title || product.name || pageTitleFromFile(product.image || product.images?.[0]);
     const card = document.createElement("article");
     card.className = `${mugGraphics ? "pattern-card product-card pattern-card--mug" : "pattern-card product-card"}${cardModifier ? ` pattern-card--${cardModifier}` : ""}`;
     const photo = document.createElement("div");
     photo.className = "pattern-card__image";
-    photo.appendChild(productImageButton(product.image, titleText, gallery, index));
+    photo.appendChild(productImageButton(product.image || product.images?.[0], titleText, gallery, galleryStartIndexes[index]));
     const body = document.createElement("div");
     body.className = "pattern-card__body";
       const priceText = product.price || defaultPrice;

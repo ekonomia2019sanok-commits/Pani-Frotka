@@ -134,8 +134,18 @@ function buildProducts(rows) {
 
     const product = title ? { image, title } : { image };
 
+    if (category === "kosmetyczki") {
+      const side = normalizeKey(row.notatka);
+      const previous = products[category].items.at(-1);
+      if (side === "tył" && previous?.title === title) {
+        previous.images.push(image);
+      } else {
+        products[category].items.push({ ...product, images: [image] });
+      }
+      return;
+    }
+
     if (category === "torby" && series) {
-      delete products[category].items;
       if (!products[category][series]) {
         products[category][series] = [];
       }
@@ -151,6 +161,18 @@ function buildProducts(rows) {
 
 const rows = readProductsCsv();
 const products = buildProducts(rows);
+
+// Keep hand-maintained galleries for categories that are not listed in the CSV.
+// The CSV drives ready-made products; galleries like magnets and mugs still
+// live only in products.json and would otherwise disappear on regeneration.
+if (fs.existsSync(productsPath)) {
+  const existingProducts = JSON.parse(fs.readFileSync(productsPath, "utf8"));
+  Object.entries(existingProducts).forEach(([category, data]) => {
+    if (!products[category]) {
+      products[category] = data;
+    }
+  });
+}
 
 fs.writeFileSync(productsPath, `${JSON.stringify(products, null, 2)}\n`, "utf8");
 fs.writeFileSync(productsDataPath, `window.PANI_FROTKA_PRODUCTS = ${JSON.stringify(products, null, 2)};\n`, "utf8");

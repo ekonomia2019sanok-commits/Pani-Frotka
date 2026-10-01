@@ -635,9 +635,13 @@ body[data-category="magnesy"] .pattern-card img {
 
 .product-lightbox {
   position: fixed;
-  inset: 0;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  transform: translate(-50%, -50%);
   height: fit-content;
-  margin: auto;
+  margin: 0;
   width: min(96vw, 1080px);
   max-width: none;
   max-height: 92vh;
@@ -649,6 +653,14 @@ body[data-category="magnesy"] .pattern-card img {
   background: rgba(255, 250, 246, 0.98);
   color: var(--brown);
   box-shadow: 0 24px 90px rgba(45, 27, 20, 0.32);
+}
+
+.product-lightbox[open] {
+  position: fixed;
+  top: 50vh;
+  top: 50dvh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
 }
 
 .product-lightbox::backdrop {

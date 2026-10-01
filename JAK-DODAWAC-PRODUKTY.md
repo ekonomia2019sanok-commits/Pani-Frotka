@@ -15,7 +15,9 @@
    - `tytuł` - podpis pod zdjęciem
    - `zdjęcie` - ścieżka do zdjęcia, np. `zdjecia-produktow/workoplecaki/111.png`
    - `aktywne` - wpisz `tak`
-   - `notatka` - opcjonalnie dla Ciebie
+   - `notatka` - opcjonalnie; przy zdjęciach kosmetyczki wpisz `Przód` i `Tył`
+
+   Jeśli dwa zdjęcia pokazują przód i tył tej samej kosmetyczki, wpisz w obu wierszach tę samą nazwę produktu. Oznacz zdjęcia w kolumnie `notatka` jako `Przód` i `Tył`. Strona pokaże je jako jeden produkt, a zdjęcia będzie można przełączać w podglądzie.
 
 4. Zapisz arkusz jako plik CSV:
    - nazwa pliku: `produkty.csv`

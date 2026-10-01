@@ -10,7 +10,7 @@ window.PANI_FROTKA_PRODUCTS = {
   "breloki": {
     "meta": {
       "name": "Breloki",
-      "description": "Galeria breloków jest na razie pusta — uzupełnimy ją wkrótce. Sekcje dostępności i zamówień pozostają.",
+      "description": "Galeria breloków jest na razie pusta — uzupełnimy ją wkrótce.",
       "image": "zdjecia-kategorii/breloki.jpg"
     },
     "items": []
@@ -24,112 +24,314 @@ window.PANI_FROTKA_PRODUCTS = {
     },
     "items": [
       {
-        "title": "Granatowa satyna",
-        "image": "zdjecia-produktow/frotki/DSC_6223.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6223.webp",
+        "title": "Butelkowa satyna"
       },
       {
-        "title": "Kwiaty po zmroku",
-        "image": "zdjecia-produktow/frotki/DSC_6226.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6226.webp",
+        "title": "Kwiaty po zmroku"
       },
       {
-        "title": "Serduszka w kolorze",
-        "image": "zdjecia-produktow/frotki/DSC_6238.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6238.webp",
+        "title": "Serduszka w kolorze"
       },
       {
-        "title": "Błękitna satyna",
-        "image": "zdjecia-produktow/frotki/DSC_6250.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6250.webp",
+        "title": "Błękitny welur"
       },
       {
-        "title": "Grafitowy połysk",
-        "image": "zdjecia-produktow/frotki/DSC_6259.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6259.webp",
+        "title": "Grafitowy połysk"
       },
       {
-        "title": "Błękitna bryza",
-        "image": "zdjecia-produktow/frotki/DSC_6263.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6263.webp",
+        "title": "Błękitna bryza"
       },
       {
-        "title": "Granatowe kwiaty",
-        "image": "zdjecia-produktow/frotki/DSC_6275.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6275.webp",
+        "title": "Granatowe kwiaty"
       },
       {
-        "title": "Szara elegancja",
-        "image": "zdjecia-produktow/frotki/DSC_6282.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6282.webp",
+        "title": "Szara elegancja"
       },
       {
-        "title": "Kwiaty w granacie",
-        "image": "zdjecia-produktow/frotki/DSC_6300.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6300.webp",
+        "title": "Kwiaty w granacie"
       },
       {
-        "title": "Bordowa róża",
-        "image": "zdjecia-produktow/frotki/DSC_6308.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6308.webp",
+        "title": "Bordowa kokardka"
       },
       {
-        "title": "Turkusowy połysk",
-        "image": "zdjecia-produktow/frotki/DSC_6311.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6311.webp",
+        "title": "Turkusowy połysk"
       },
       {
-        "title": "Morski wzór",
-        "image": "zdjecia-produktow/frotki/DSC_6322.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6322.webp",
+        "title": "Butelkowy Włóczykij"
       },
       {
-        "title": "Lawendowa mgiełka",
-        "image": "zdjecia-produktow/frotki/DSC_6332.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6332.webp",
+        "title": "Lawendowa mgiełka"
       },
       {
-        "title": "Srebrzysty błękit",
-        "image": "zdjecia-produktow/frotki/DSC_6341.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6341.webp",
+        "title": "Srebrzysty błękit"
       },
       {
-        "title": "Miętowy połysk",
-        "image": "zdjecia-produktow/frotki/DSC_6344.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6344.webp",
+        "title": "Miętowy połysk"
       },
       {
-        "title": "Królewski błękit",
-        "image": "zdjecia-produktow/frotki/DSC_6351.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6351.webp",
+        "title": "Królewski błękit"
       },
       {
-        "title": "Czerwona krateczka",
-        "image": "zdjecia-produktow/frotki/DSC_6357.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6357.webp",
+        "title": "Czerwona krateczka"
       },
       {
-        "title": "Kolorowy miszmasz",
-        "image": "zdjecia-produktow/frotki/DSC_6366.webp"
+        "image": "zdjecia-produktow/frotki/DSC_6366.webp",
+        "title": "Kolorowy miszmasz"
       },
       {
-        "title": "Gwiazdeczki",
-        "image": "zdjecia-produktow/frotki/Gwiazdeczki.webp"
+        "image": "zdjecia-produktow/frotki/Gwiazdeczki.webp",
+        "title": "Gwiazdeczki"
       },
       {
-        "title": "Kapibarki",
-        "image": "zdjecia-produktow/frotki/Kapibarki.webp"
+        "image": "zdjecia-produktow/frotki/Kapibarki.webp",
+        "title": "Kapibarki"
       },
       {
-        "title": "Kolorowe motylki",
-        "image": "zdjecia-produktow/frotki/Kolorowe motylki.webp"
+        "image": "zdjecia-produktow/frotki/Kolorowe motylki.webp",
+        "title": "Kolorowe motylki"
       },
       {
-        "title": "Na folkowo",
-        "image": "zdjecia-produktow/frotki/Na folkowo.webp"
+        "image": "zdjecia-produktow/frotki/Na folkowo.webp",
+        "title": "Na folkowo"
       },
       {
-        "title": "Pastelowwe fantazje",
-        "image": "zdjecia-produktow/frotki/Pastelowwe fantazje.webp"
+        "image": "zdjecia-produktow/frotki/Pastelowwe fantazje.webp",
+        "title": "Pastelowwe fantazje"
       },
       {
-        "title": "Pod choinkę",
-        "image": "zdjecia-produktow/frotki/Pod choinkę.webp"
+        "image": "zdjecia-produktow/frotki/Pod choinkę.webp",
+        "title": "Pod choinkę"
       },
       {
-        "title": "Słodkie pączusie",
-        "image": "zdjecia-produktow/frotki/Słodkie pączusie.webp"
+        "image": "zdjecia-produktow/frotki/Słodkie pączusie.webp",
+        "title": "Słodkie pączusie"
       },
       {
-        "title": "Truskaweczki",
-        "image": "zdjecia-produktow/frotki/Truskaweczki.webp"
+        "image": "zdjecia-produktow/frotki/Truskaweczki.webp",
+        "title": "Truskaweczki"
       },
       {
-        "title": "Włóczykij",
-        "image": "zdjecia-produktow/frotki/Włóczykij.webp"
+        "image": "zdjecia-produktow/frotki/Włóczykij.webp",
+        "title": "Włóczykij"
+      }
+    ]
+  },
+  "kosmetyczki": {
+    "meta": {
+      "name": "Kosmetyczki",
+      "description": "Poręczne kosmetyczki tworzone ręcznie na co dzień i w podróż.",
+      "image": "assets/category-crops/kosmetyczki.png",
+      "price": "25 zł"
+    },
+    "items": [
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6080.webp",
+        "title": "Leśna gałązka",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6080.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6081.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6086.webp",
+        "title": "Kolorowy ptak",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6086.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6089.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6091.webp",
+        "title": "Kwiatowa akwarela",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6091.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6098.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6100.webp",
+        "title": "Tropikalny błękit",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6100.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6103.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6104.webp",
+        "title": "Błękitne liście",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6104.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6109.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6111.webp",
+        "title": "Zielona gałązka",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6111.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6115.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6117.webp",
+        "title": "Szczęśliwa koniczynka",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6117.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6120.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6122.webp",
+        "title": "Biała magnolia",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6122.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6126.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6128.webp",
+        "title": "Różany wieczór",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6128.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6131.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6133.webp",
+        "title": "Różowe peonie",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6133.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6135.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6136.webp",
+        "title": "Kwiatowy zmierzch",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6136.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6139.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6140.webp",
+        "title": "Malinowe kwiaty",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6140.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6143.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6144.webp",
+        "title": "Różowa akwarela",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6144.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6147.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6148.webp",
+        "title": "Jasna paproć",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6148.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6150.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6152.webp",
+        "title": "Tropikalne liście",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6152.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6154.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6155.webp",
+        "title": "Biała gałązka",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6155.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6157.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6158.webp",
+        "title": "Akwarelowe pnącza",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6158.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6160.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6162.webp",
+        "title": "Ptasia melodia",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6162.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6164.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6166.webp",
+        "title": "Granatowy marmur",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6166.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6168.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6171.webp",
+        "title": "Szary marmur",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6171.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6173.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6174.webp",
+        "title": "Fioletowe złoto",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6174.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6176.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6178.webp",
+        "title": "Perłowy marmur",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6178.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6180.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6181.webp",
+        "title": "Granatowe pióro",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6181.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6183.webp"
+        ]
+      },
+      {
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6186.webp",
+        "title": "Fioletowy liść",
+        "images": [
+          "zdjecia-produktow/kosmetyczki/DSC_6186.webp",
+          "zdjecia-produktow/kosmetyczki/DSC_6188.webp"
+        ]
       }
     ]
   },
@@ -140,6 +342,64 @@ window.PANI_FROTKA_PRODUCTS = {
       "image": "zdjecia-kategorii/torby.jpg",
       "price": "80 zł"
     },
+    "items": [
+      {
+        "image": "zdjecia-produktow/torby/Bieszczadki wilk.webp",
+        "title": "Bieszczadzki Wilk"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6388.webp",
+        "title": "Świnka"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6394.webp",
+        "title": "Ruda bohaterka"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6398.webp",
+        "title": "Kwiatowy festiwal"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6406.webp",
+        "title": "Jesienny portret"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6410.webp",
+        "title": "Czarny przyjaciel"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6419.webp",
+        "title": "Dziewczynka z lasu"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6422.webp",
+        "title": "Pop-artowa dama"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6425.webp",
+        "title": "Łąka w kolorze"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6426.webp",
+        "title": "Geometryczna energia"
+      },
+      {
+        "image": "zdjecia-produktow/torby/DSC_6431.webp",
+        "title": "Kolorowe konfetti"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Mała Mi.webp",
+        "title": "Mała Mi"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Włoczykij ver 2.webp",
+        "title": "Włoczykij ver 2"
+      },
+      {
+        "image": "zdjecia-produktow/torby/Włoczykij.webp",
+        "title": "Włoczykij"
+      }
+    ],
     "Afrykański styl": [
       {
         "image": "zdjecia-produktow/torby/Afrykański styl/SA_01.png"
@@ -882,64 +1142,6 @@ window.PANI_FROTKA_PRODUCTS = {
       },
       {
         "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_25.png"
-      }
-    ],
-    "items": [
-      {
-        "title": "Bieszczadki wilk",
-        "image": "zdjecia-produktow/torby/Bieszczadki wilk.webp"
-      },
-      {
-        "title": "Świnka",
-        "image": "zdjecia-produktow/torby/DSC_6388.webp"
-      },
-      {
-        "title": "Ruda bohaterka",
-        "image": "zdjecia-produktow/torby/DSC_6394.webp"
-      },
-      {
-        "title": "Kwiatowy festiwal",
-        "image": "zdjecia-produktow/torby/DSC_6398.webp"
-      },
-      {
-        "title": "Jesienny portret",
-        "image": "zdjecia-produktow/torby/DSC_6406.webp"
-      },
-      {
-        "title": "Czarny przyjaciel",
-        "image": "zdjecia-produktow/torby/DSC_6410.webp"
-      },
-      {
-        "title": "Dziewczynka z lasu",
-        "image": "zdjecia-produktow/torby/DSC_6419.webp"
-      },
-      {
-        "title": "Pop-artowa dama",
-        "image": "zdjecia-produktow/torby/DSC_6422.webp"
-      },
-      {
-        "title": "Łąka w kolorze",
-        "image": "zdjecia-produktow/torby/DSC_6425.webp"
-      },
-      {
-        "title": "Geometryczna energia",
-        "image": "zdjecia-produktow/torby/DSC_6426.webp"
-      },
-      {
-        "title": "Kolorowe konfetti",
-        "image": "zdjecia-produktow/torby/DSC_6431.webp"
-      },
-      {
-        "title": "Mała Mi",
-        "image": "zdjecia-produktow/torby/Mała Mi.webp"
-      },
-      {
-        "title": "Włoczykij ver 2",
-        "image": "zdjecia-produktow/torby/Włoczykij ver 2.webp"
-      },
-      {
-        "title": "Włoczykij",
-        "image": "zdjecia-produktow/torby/Włoczykij.webp"
       }
     ]
   },
@@ -951,752 +1153,8 @@ window.PANI_FROTKA_PRODUCTS = {
     },
     "items": [
       {
-        "title": "Leśna wędrówka",
-        "image": "zdjecia-produktow/workoplecaki/DSC_6432.webp"
-      }
-    ],
-    "Afrykański styl": [
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_12.png"
-      }
-    ],
-    "Anioły Bieszczadzkie": [
-      {
-        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_04.png"
-      }
-    ],
-    "Bieszczady": [
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_13.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_15.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_16.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_17.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_18.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_19.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_20.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_21.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_22.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_23.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_24.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_25.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_26.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_27.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_28.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_29.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_30.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_31.png"
-      }
-    ],
-    "Bieszczadzki klimat": [
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_01_wilk.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_02_wilk.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_03_niedźwiedź.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_04_rys.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_05_ żubr.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_06_jeleń.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_07_jastrząb.png"
-      }
-    ],
-    "Bieszczadzkie zwierzęta": [
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_13.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_14.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_15.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_16.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_17.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_18.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_19.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_20.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_21.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_22.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_23.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_24.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_25.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_26.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_27.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_28.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_29.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_30.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_31.png"
-      }
-    ],
-    "Kolorowe Ptaki": [
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_13.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_14.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_15.png"
-      }
-    ],
-    "Kolorowe zwierzaki": [
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_13.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_14.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_15.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_16.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_17.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_18.png"
-      }
-    ],
-    "Konie": [
-      {
-        "image": "zdjecia-produktow/torby/Konie/KO_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Konie/KO_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Konie/KO_03.png"
-      }
-    ],
-    "Kwiaty": [
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_13.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_14.png"
-      }
-    ],
-    "Miasta": [
-      {
-        "image": "zdjecia-produktow/torby/Miasta/LESKO.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Miasta/SANOK.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Miasta/ZAGÓRZ.png"
-      }
-    ],
-    "Motoryzacja": [
-      {
-        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_04.png"
-      }
-    ],
-    "Owady": [
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Owady/OW_13.png"
-      }
-    ],
-    "Retro Bieszczady": [
-      {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_05.png"
-      }
-    ],
-    "Rzuć wszystko i jedź w Bieszczady": [
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_01.PNG"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_02.PNG"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_13.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_14.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_15.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_16.png"
-      }
-    ],
-    "Warzywa": [
-      {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_05.png"
-      }
-    ],
-    "Zwierzęta profilem": [
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_13.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_14.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_15.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_16.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_17.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_18.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_19.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_20.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_21.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_22.png"
-      }
-    ],
-    "Zwierzęta żółte tło": [
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_09.png"
-      }
-    ],
-    "Zwięrzęta Afryki": [
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_01.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_02.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_03.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_04.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_05.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_06.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_07.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_08.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_09.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_10.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_11.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_12.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_13.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_14.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_15.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_16.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_17.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_18.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_19.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_20.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_21.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_22.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_23.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_24.png"
-      },
-      {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_25.png"
+        "image": "zdjecia-produktow/workoplecaki/DSC_6432.webp",
+        "title": "Leśna wędrówka"
       }
     ]
   },
@@ -1911,208 +1369,6 @@ window.PANI_FROTKA_PRODUCTS = {
       {
         "title": "Najlepsza mama — wianek",
         "image": "zdjecia-produktow/magnesy/okragle-59/37-najlepsza-mama.png"
-      }
-    ]
-  },
-  "kosmetyczki": {
-    "meta": {
-      "name": "Kosmetyczki",
-      "description": "Poręczne kosmetyczki tworzone ręcznie na co dzień i w podróż.",
-      "image": "assets/category-crops/kosmetyczki.png",
-      "price": "25 zł"
-    },
-    "items": [
-      {
-        "title": "Leśna gałązka",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6080.webp"
-      },
-      {
-        "title": "Ptasie trele",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6081.webp"
-      },
-      {
-        "title": "Kolorowy ptak",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6086.webp"
-      },
-      {
-        "title": "Polna łąka",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6089.webp"
-      },
-      {
-        "title": "Kwiatowa akwarela",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6091.webp"
-      },
-      {
-        "title": "Ptasia opowieść",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6098.webp"
-      },
-      {
-        "title": "Tropikalny błękit",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6100.webp"
-      },
-      {
-        "title": "Morska bryza",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6103.webp"
-      },
-      {
-        "title": "Błękitne liście",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6104.webp"
-      },
-      {
-        "title": "Niebieski ogród",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6109.webp"
-      },
-      {
-        "title": "Zielona gałązka",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6111.webp"
-      },
-      {
-        "title": "Koniczynkowa łąka",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6115.webp"
-      },
-      {
-        "title": "Szczęśliwa koniczynka",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6117.webp"
-      },
-      {
-        "title": "Zielone szczęście",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6120.webp"
-      },
-      {
-        "title": "Biała magnolia",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6122.webp"
-      },
-      {
-        "title": "Nocny ogród",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6126.webp"
-      },
-      {
-        "title": "Różany wieczór",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6128.webp"
-      },
-      {
-        "title": "Kwiaty po zmroku",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6131.webp"
-      },
-      {
-        "title": "Różowe peonie",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6133.webp"
-      },
-      {
-        "title": "Granatowy bukiet",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6135.webp"
-      },
-      {
-        "title": "Kwiatowy zmierzch",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6136.webp"
-      },
-      {
-        "title": "Różana noc",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6139.webp"
-      },
-      {
-        "title": "Malinowe kwiaty",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6140.webp"
-      },
-      {
-        "title": "Kwiaty w granacie",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6143.webp"
-      },
-      {
-        "title": "Różowa akwarela",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6144.webp"
-      },
-      {
-        "title": "Kwiaty na granacie",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6147.webp"
-      },
-      {
-        "title": "Jasna paproć",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6148.webp"
-      },
-      {
-        "title": "Zielone pnącza",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6150.webp"
-      },
-      {
-        "title": "Tropikalne liście",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6152.webp"
-      },
-      {
-        "title": "Palmowa bryza",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6154.webp"
-      },
-      {
-        "title": "Biała gałązka",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6155.webp"
-      },
-      {
-        "title": "Lawendowe listki",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6157.webp"
-      },
-      {
-        "title": "Akwarelowe pnącza",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6158.webp"
-      },
-      {
-        "title": "Zielony ogród",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6160.webp"
-      },
-      {
-        "title": "Ptasia melodia",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6162.webp"
-      },
-      {
-        "title": "Morska palma",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6164.webp"
-      },
-      {
-        "title": "Granatowy marmur",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6166.webp"
-      },
-      {
-        "title": "Błękitny marmur",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6168.webp"
-      },
-      {
-        "title": "Szary marmur",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6171.webp"
-      },
-      {
-        "title": "Jasny kamień",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6173.webp"
-      },
-      {
-        "title": "Fioletowe złoto",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6174.webp"
-      },
-      {
-        "title": "Fioletowa żyła",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6176.webp"
-      },
-      {
-        "title": "Perłowy marmur",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6178.webp"
-      },
-      {
-        "title": "Jasna perła",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6180.webp"
-      },
-      {
-        "title": "Granatowe pióro",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6181.webp"
-      },
-      {
-        "title": "Turkusowe pióro",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6183.webp"
-      },
-      {
-        "title": "Fioletowy liść",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6186.webp"
-      },
-      {
-        "title": "Palmowy cień",
-        "image": "zdjecia-produktow/kosmetyczki/DSC_6188.webp"
       }
     ]
   },
