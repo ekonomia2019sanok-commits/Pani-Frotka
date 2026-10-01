@@ -634,10 +634,14 @@ body[data-category="magnesy"] .pattern-card img {
 }
 
 .product-lightbox {
-  position: relative;
+  position: fixed;
+  inset: 0;
+  height: fit-content;
+  margin: auto;
   width: min(96vw, 1080px);
   max-width: none;
-  max-height: 94vh;
+  max-height: 92vh;
+  max-height: 92dvh;
   padding: 54px 22px 18px;
   overflow: auto;
   border: 1px solid rgba(111, 61, 43, 0.16);
@@ -727,7 +731,8 @@ body[data-category="magnesy"] .pattern-card img {
   }
 
   .product-lightbox__image {
-    max-height: 79vh;
+    max-height: 76vh;
+    max-height: 76dvh;
   }
 
   .product-lightbox__nav {
