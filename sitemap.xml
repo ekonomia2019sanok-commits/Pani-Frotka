@@ -17,8 +17,20 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://panifrotka.pl/kategorie/kosmetyczka.html</loc>
+    <loc>https://panifrotka.pl/kategorie/kosmetyczki.html</loc>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://panifrotka.pl/kategorie/kubki.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://panifrotka.pl/kategorie/magnesy.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://panifrotka.pl/kategorie/przypinki.html</loc>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://panifrotka.pl/kategorie/frotki.html</loc>
