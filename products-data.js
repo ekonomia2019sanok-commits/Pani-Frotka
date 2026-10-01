@@ -19,15 +19,126 @@ window.PANI_FROTKA_PRODUCTS = {
     "meta": {
       "name": "Frotki",
       "description": "Delikatne dla włosów, lekkie i szyte w krótkich seriach.",
-      "image": "zdjecia-kategorii/frotki.jpg"
+      "image": "zdjecia-kategorii/frotki.jpg",
+      "price": "15 zł"
     },
-    "items": []
+    "items": [
+      {
+        "title": "Granatowa satyna",
+        "image": "zdjecia-produktow/frotki/DSC_6223.webp"
+      },
+      {
+        "title": "Kwiaty po zmroku",
+        "image": "zdjecia-produktow/frotki/DSC_6226.webp"
+      },
+      {
+        "title": "Serduszka w kolorze",
+        "image": "zdjecia-produktow/frotki/DSC_6238.webp"
+      },
+      {
+        "title": "Błękitna satyna",
+        "image": "zdjecia-produktow/frotki/DSC_6250.webp"
+      },
+      {
+        "title": "Grafitowy połysk",
+        "image": "zdjecia-produktow/frotki/DSC_6259.webp"
+      },
+      {
+        "title": "Błękitna bryza",
+        "image": "zdjecia-produktow/frotki/DSC_6263.webp"
+      },
+      {
+        "title": "Granatowe kwiaty",
+        "image": "zdjecia-produktow/frotki/DSC_6275.webp"
+      },
+      {
+        "title": "Szara elegancja",
+        "image": "zdjecia-produktow/frotki/DSC_6282.webp"
+      },
+      {
+        "title": "Kwiaty w granacie",
+        "image": "zdjecia-produktow/frotki/DSC_6300.webp"
+      },
+      {
+        "title": "Bordowa róża",
+        "image": "zdjecia-produktow/frotki/DSC_6308.webp"
+      },
+      {
+        "title": "Turkusowy połysk",
+        "image": "zdjecia-produktow/frotki/DSC_6311.webp"
+      },
+      {
+        "title": "Morski wzór",
+        "image": "zdjecia-produktow/frotki/DSC_6322.webp"
+      },
+      {
+        "title": "Lawendowa mgiełka",
+        "image": "zdjecia-produktow/frotki/DSC_6332.webp"
+      },
+      {
+        "title": "Srebrzysty błękit",
+        "image": "zdjecia-produktow/frotki/DSC_6341.webp"
+      },
+      {
+        "title": "Miętowy połysk",
+        "image": "zdjecia-produktow/frotki/DSC_6344.webp"
+      },
+      {
+        "title": "Królewski błękit",
+        "image": "zdjecia-produktow/frotki/DSC_6351.webp"
+      },
+      {
+        "title": "Czerwona krateczka",
+        "image": "zdjecia-produktow/frotki/DSC_6357.webp"
+      },
+      {
+        "title": "Kolorowy miszmasz",
+        "image": "zdjecia-produktow/frotki/DSC_6366.webp"
+      },
+      {
+        "title": "Gwiazdeczki",
+        "image": "zdjecia-produktow/frotki/Gwiazdeczki.webp"
+      },
+      {
+        "title": "Kapibarki",
+        "image": "zdjecia-produktow/frotki/Kapibarki.webp"
+      },
+      {
+        "title": "Kolorowe motylki",
+        "image": "zdjecia-produktow/frotki/Kolorowe motylki.webp"
+      },
+      {
+        "title": "Na folkowo",
+        "image": "zdjecia-produktow/frotki/Na folkowo.webp"
+      },
+      {
+        "title": "Pastelowwe fantazje",
+        "image": "zdjecia-produktow/frotki/Pastelowwe fantazje.webp"
+      },
+      {
+        "title": "Pod choinkę",
+        "image": "zdjecia-produktow/frotki/Pod choinkę.webp"
+      },
+      {
+        "title": "Słodkie pączusie",
+        "image": "zdjecia-produktow/frotki/Słodkie pączusie.webp"
+      },
+      {
+        "title": "Truskaweczki",
+        "image": "zdjecia-produktow/frotki/Truskaweczki.webp"
+      },
+      {
+        "title": "Włóczykij",
+        "image": "zdjecia-produktow/frotki/Włóczykij.webp"
+      }
+    ]
   },
   "torby": {
     "meta": {
       "name": "Torby",
       "description": "Ręcznie szyte torby z motywami, które mają charakter.",
-      "image": "zdjecia-kategorii/torby.jpg"
+      "image": "zdjecia-kategorii/torby.jpg",
+      "price": "80 zł"
     },
     "Afrykański styl": [
       {
@@ -772,6 +883,64 @@ window.PANI_FROTKA_PRODUCTS = {
       {
         "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_25.png"
       }
+    ],
+    "items": [
+      {
+        "title": "Bieszczadki wilk",
+        "image": "zdjecia-produktow/torby/Bieszczadki wilk.webp"
+      },
+      {
+        "title": "Świnka",
+        "image": "zdjecia-produktow/torby/DSC_6388.webp"
+      },
+      {
+        "title": "Ruda bohaterka",
+        "image": "zdjecia-produktow/torby/DSC_6394.webp"
+      },
+      {
+        "title": "Kwiatowy festiwal",
+        "image": "zdjecia-produktow/torby/DSC_6398.webp"
+      },
+      {
+        "title": "Jesienny portret",
+        "image": "zdjecia-produktow/torby/DSC_6406.webp"
+      },
+      {
+        "title": "Czarny przyjaciel",
+        "image": "zdjecia-produktow/torby/DSC_6410.webp"
+      },
+      {
+        "title": "Dziewczynka z lasu",
+        "image": "zdjecia-produktow/torby/DSC_6419.webp"
+      },
+      {
+        "title": "Pop-artowa dama",
+        "image": "zdjecia-produktow/torby/DSC_6422.webp"
+      },
+      {
+        "title": "Łąka w kolorze",
+        "image": "zdjecia-produktow/torby/DSC_6425.webp"
+      },
+      {
+        "title": "Geometryczna energia",
+        "image": "zdjecia-produktow/torby/DSC_6426.webp"
+      },
+      {
+        "title": "Kolorowe konfetti",
+        "image": "zdjecia-produktow/torby/DSC_6431.webp"
+      },
+      {
+        "title": "Mała Mi",
+        "image": "zdjecia-produktow/torby/Mała Mi.webp"
+      },
+      {
+        "title": "Włoczykij ver 2",
+        "image": "zdjecia-produktow/torby/Włoczykij ver 2.webp"
+      },
+      {
+        "title": "Włoczykij",
+        "image": "zdjecia-produktow/torby/Włoczykij.webp"
+      }
     ]
   },
   "workoplecak": {
@@ -780,7 +949,12 @@ window.PANI_FROTKA_PRODUCTS = {
       "description": "Lekki worek na plecy, który lubi codzienne wyjścia.",
       "image": "zdjecia-kategorii/workoplecaki.jpg"
     },
-    "items": [],
+    "items": [
+      {
+        "title": "Leśna wędrówka",
+        "image": "zdjecia-produktow/workoplecaki/DSC_6432.webp"
+      }
+    ],
     "Afrykański styl": [
       {
         "image": "zdjecia-produktow/torby/Afrykański styl/SA_01.png"
@@ -1747,7 +1921,200 @@ window.PANI_FROTKA_PRODUCTS = {
       "image": "assets/category-crops/kosmetyczki.png",
       "price": "25 zł"
     },
-    "items": []
+    "items": [
+      {
+        "title": "Leśna gałązka",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6080.webp"
+      },
+      {
+        "title": "Ptasie trele",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6081.webp"
+      },
+      {
+        "title": "Kolorowy ptak",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6086.webp"
+      },
+      {
+        "title": "Polna łąka",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6089.webp"
+      },
+      {
+        "title": "Kwiatowa akwarela",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6091.webp"
+      },
+      {
+        "title": "Ptasia opowieść",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6098.webp"
+      },
+      {
+        "title": "Tropikalny błękit",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6100.webp"
+      },
+      {
+        "title": "Morska bryza",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6103.webp"
+      },
+      {
+        "title": "Błękitne liście",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6104.webp"
+      },
+      {
+        "title": "Niebieski ogród",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6109.webp"
+      },
+      {
+        "title": "Zielona gałązka",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6111.webp"
+      },
+      {
+        "title": "Koniczynkowa łąka",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6115.webp"
+      },
+      {
+        "title": "Szczęśliwa koniczynka",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6117.webp"
+      },
+      {
+        "title": "Zielone szczęście",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6120.webp"
+      },
+      {
+        "title": "Biała magnolia",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6122.webp"
+      },
+      {
+        "title": "Nocny ogród",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6126.webp"
+      },
+      {
+        "title": "Różany wieczór",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6128.webp"
+      },
+      {
+        "title": "Kwiaty po zmroku",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6131.webp"
+      },
+      {
+        "title": "Różowe peonie",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6133.webp"
+      },
+      {
+        "title": "Granatowy bukiet",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6135.webp"
+      },
+      {
+        "title": "Kwiatowy zmierzch",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6136.webp"
+      },
+      {
+        "title": "Różana noc",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6139.webp"
+      },
+      {
+        "title": "Malinowe kwiaty",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6140.webp"
+      },
+      {
+        "title": "Kwiaty w granacie",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6143.webp"
+      },
+      {
+        "title": "Różowa akwarela",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6144.webp"
+      },
+      {
+        "title": "Kwiaty na granacie",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6147.webp"
+      },
+      {
+        "title": "Jasna paproć",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6148.webp"
+      },
+      {
+        "title": "Zielone pnącza",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6150.webp"
+      },
+      {
+        "title": "Tropikalne liście",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6152.webp"
+      },
+      {
+        "title": "Palmowa bryza",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6154.webp"
+      },
+      {
+        "title": "Biała gałązka",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6155.webp"
+      },
+      {
+        "title": "Lawendowe listki",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6157.webp"
+      },
+      {
+        "title": "Akwarelowe pnącza",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6158.webp"
+      },
+      {
+        "title": "Zielony ogród",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6160.webp"
+      },
+      {
+        "title": "Ptasia melodia",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6162.webp"
+      },
+      {
+        "title": "Morska palma",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6164.webp"
+      },
+      {
+        "title": "Granatowy marmur",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6166.webp"
+      },
+      {
+        "title": "Błękitny marmur",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6168.webp"
+      },
+      {
+        "title": "Szary marmur",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6171.webp"
+      },
+      {
+        "title": "Jasny kamień",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6173.webp"
+      },
+      {
+        "title": "Fioletowe złoto",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6174.webp"
+      },
+      {
+        "title": "Fioletowa żyła",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6176.webp"
+      },
+      {
+        "title": "Perłowy marmur",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6178.webp"
+      },
+      {
+        "title": "Jasna perła",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6180.webp"
+      },
+      {
+        "title": "Granatowe pióro",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6181.webp"
+      },
+      {
+        "title": "Turkusowe pióro",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6183.webp"
+      },
+      {
+        "title": "Fioletowy liść",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6186.webp"
+      },
+      {
+        "title": "Palmowy cień",
+        "image": "zdjecia-produktow/kosmetyczki/DSC_6188.webp"
+      }
+    ]
   },
   "kubki": {
     "meta": {

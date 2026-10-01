@@ -11,6 +11,9 @@ const yearPage = document.querySelector("#year");
 
 if (yearPage) yearPage.textContent = new Date().getFullYear();
 
+let activeProductGallery = [];
+let activeProductIndex = 0;
+
 function pageImagePath(src) {
   return src && !src.startsWith("http") && !src.startsWith("../") ? `${assetPrefix}${src}` : src;
 }
@@ -34,9 +37,108 @@ function pageImage(src, alt) {
   return image;
 }
 
+function changeProductLightboxImage(step) {
+  if (!activeProductGallery.length) return;
+  activeProductIndex = (activeProductIndex + step + activeProductGallery.length) % activeProductGallery.length;
+  const dialog = document.querySelector(".product-lightbox");
+  const product = activeProductGallery[activeProductIndex];
+  const image = dialog.querySelector(".product-lightbox__image");
+  image.src = pageImagePath(product.src);
+  image.alt = product.title;
+  dialog.querySelector(".product-lightbox__caption").textContent = activeProductGallery.length > 1
+    ? `${product.title} · ${activeProductIndex + 1} / ${activeProductGallery.length}`
+    : product.title;
+}
+
+function openProductLightbox(gallery, index) {
+  activeProductGallery = gallery;
+  activeProductIndex = index;
+  let dialog = document.querySelector(".product-lightbox");
+  if (!dialog) {
+    dialog = document.createElement("dialog");
+    dialog.className = "product-lightbox";
+    dialog.setAttribute("aria-label", "Powiększone zdjęcie produktu");
+
+    const closeButton = document.createElement("button");
+    closeButton.className = "product-lightbox__close";
+    closeButton.type = "button";
+    closeButton.setAttribute("aria-label", "Zamknij powiększone zdjęcie");
+    closeButton.textContent = "×";
+
+    const previousButton = document.createElement("button");
+    previousButton.className = "product-lightbox__nav product-lightbox__nav--previous";
+    previousButton.type = "button";
+    previousButton.setAttribute("aria-label", "Poprzednie zdjęcie");
+    previousButton.textContent = "‹";
+
+    const image = document.createElement("img");
+    image.className = "product-lightbox__image";
+
+    const nextButton = document.createElement("button");
+    nextButton.className = "product-lightbox__nav product-lightbox__nav--next";
+    nextButton.type = "button";
+    nextButton.setAttribute("aria-label", "Następne zdjęcie");
+    nextButton.textContent = "›";
+
+    const caption = document.createElement("p");
+    caption.className = "product-lightbox__caption";
+
+    closeButton.addEventListener("click", () => dialog.close());
+    previousButton.addEventListener("click", () => changeProductLightboxImage(-1));
+    nextButton.addEventListener("click", () => changeProductLightboxImage(1));
+    dialog.addEventListener("click", (event) => {
+      if (event.target === dialog) dialog.close();
+    });
+    dialog.addEventListener("keydown", (event) => {
+      if (event.key === "ArrowLeft") {
+        event.preventDefault();
+        changeProductLightboxImage(-1);
+      } else if (event.key === "ArrowRight") {
+        event.preventDefault();
+        changeProductLightboxImage(1);
+      }
+    });
+    let touchStart = null;
+    dialog.addEventListener("touchstart", (event) => {
+      touchStart = event.changedTouches[0]
+        ? { x: event.changedTouches[0].clientX, y: event.changedTouches[0].clientY }
+        : null;
+    }, { passive: true });
+    dialog.addEventListener("touchend", (event) => {
+      if (!touchStart || !event.changedTouches[0]) return;
+      const deltaX = event.changedTouches[0].clientX - touchStart.x;
+      const deltaY = event.changedTouches[0].clientY - touchStart.y;
+      touchStart = null;
+      if (Math.abs(deltaX) > 45 && Math.abs(deltaX) > Math.abs(deltaY) * 1.2) {
+        changeProductLightboxImage(deltaX < 0 ? 1 : -1);
+      }
+    }, { passive: true });
+    dialog.append(closeButton, previousButton, image, nextButton, caption);
+    document.body.appendChild(dialog);
+  }
+
+  dialog.querySelectorAll(".product-lightbox__nav").forEach((button) => {
+    button.hidden = gallery.length < 2;
+  });
+  changeProductLightboxImage(0);
+  if (!dialog.open) dialog.showModal();
+}
+
+function productImageButton(src, title, gallery, index) {
+  const button = document.createElement("button");
+  button.className = "product-image-button";
+  button.type = "button";
+  button.setAttribute("aria-label", `Powiększ zdjęcie produktu: ${title}`);
+  button.title = "Kliknij, aby powiększyć zdjęcie";
+  button.appendChild(pageImage(src, title));
+  button.addEventListener("click", () => openProductLightbox(gallery, index));
+  return button;
+}
+
 function appendSection(title, items, { price = false, description = "", defaultPrice = "", mugGraphics = false, showBrand = true, cardModifier = "" } = {}) {
   const section = document.createElement("section");
   section.className = "catalog-section";
+  if (title === "PRODUKTY DOSTĘPNE OD RĘKI") section.classList.add("catalog-section--available");
   const heading = document.createElement("div");
   heading.className = "catalog-section__heading";
   heading.innerHTML = `${showBrand ? '<p class="eyebrow">Pani-frotka</p>' : ""}<h2>${title}</h2>${description ? `<p>${description}</p>` : ""}`;
@@ -49,16 +151,21 @@ function appendSection(title, items, { price = false, description = "", defaultP
     empty.textContent = "Już za chwileczkę, już za momencik… pracownia szykuje tu nowe wzory. Zajrzyj ponownie niedługo!";
     grid.appendChild(empty);
   }
-  items.forEach((product) => {
-    const titleText = product.title || product.name || pageTitleFromFile(product.image);
+  const gallery = items.map((product) => ({
+    src: product.image,
+    title: product.title || product.name || pageTitleFromFile(product.image)
+  }));
+  items.forEach((product, index) => {
+    const titleText = gallery[index].title;
     const card = document.createElement("article");
     card.className = `${mugGraphics ? "pattern-card product-card pattern-card--mug" : "pattern-card product-card"}${cardModifier ? ` pattern-card--${cardModifier}` : ""}`;
     const photo = document.createElement("div");
     photo.className = "pattern-card__image";
-    photo.appendChild(pageImage(product.image, titleText));
+    photo.appendChild(productImageButton(product.image, titleText, gallery, index));
     const body = document.createElement("div");
     body.className = "pattern-card__body";
-      body.innerHTML = `<h3>${titleText}</h3>${product.description || price ? `<p>${product.description || "Ręcznie wykonany produkt — napisz, aby potwierdzić dostępność i szczegóły."}</p>` : ""}${price ? `<strong class="product-card__price">${product.price || defaultPrice || "Cena do potwierdzenia w wiadomości"}</strong>` : ""}`;
+      const priceText = product.price || defaultPrice;
+      body.innerHTML = `<h3>${titleText}</h3>${product.description ? `<p>${product.description}</p>` : ""}${price && priceText ? `<strong class="product-card__price">${priceText}</strong>` : ""}`;
     card.append(photo, body);
     grid.appendChild(card);
   });
@@ -102,14 +209,18 @@ function appendPatternCollections(collections) {
     groupTitle.textContent = collectionName;
     const grid = document.createElement("div");
     grid.className = "pattern-grid";
-    products.forEach((product) => {
-      const title = product.title || product.name || pageTitleFromFile(product.image);
+    const gallery = products.map((product) => ({
+      src: product.image,
+      title: product.title || product.name || pageTitleFromFile(product.image)
+    }));
+    products.forEach((product, index) => {
+      const title = gallery[index].title;
       const card = document.createElement("article");
       card.className = "pattern-card";
       card.dataset.searchText = `${collectionName} ${title}`.toLocaleLowerCase("pl-PL");
       const photo = document.createElement("div");
       photo.className = "pattern-card__image";
-      photo.appendChild(pageImage(product.image, `${collectionName}: ${title}`));
+      photo.appendChild(productImageButton(product.image, `${collectionName}: ${title}`, gallery, index));
       const body = document.createElement("div");
       body.className = "pattern-card__body";
       const cardTitle = document.createElement("h3");
@@ -169,6 +280,26 @@ function appendOwnGraphic(categoryName, isMug = false) {
   seriesGridPage.appendChild(panel);
 }
 
+function appendMugPreviewLink() {
+  const wrapper = document.createElement("div");
+  wrapper.className = "mug-preview-link";
+
+  const label = document.createElement("p");
+  label.className = "eyebrow";
+  label.textContent = "Podgląd 3D";
+
+  const link = document.createElement("a");
+  link.className = "button button--small button--ghost";
+  link.href = "https://mocka3d.com/p/FBqqTiHV";
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.textContent = "Zobacz kubek w 3D";
+  link.setAttribute("aria-label", "Otwórz podgląd kubka 3D w nowej karcie");
+
+  wrapper.append(label, link);
+  seriesGridPage.appendChild(wrapper);
+}
+
 function renderCategory(category, catalog = {}) {
   const meta = category.meta || {};
   const items = Array.isArray(category.items) ? category.items : [];
@@ -189,12 +320,13 @@ function renderCategory(category, catalog = {}) {
   seriesViewPage.hidden = false;
   galleryViewPage.hidden = true;
   if (pageCategoryKey === "frotki") {
-    appendSection("Dostępne frotki", [...items, ...patterns], { price: true });
+    appendSection("PRODUKTY DOSTĘPNE OD RĘKI", [...items, ...patterns], { price: true, defaultPrice: meta.price });
     return;
   }
   if (pageCategoryKey === "kubki") {
     if (items.length) appendSection("Gotowe wzory kubków", items, { price: true, defaultPrice: meta.price });
     appendSection("Gotowe wzory grafik", patterns, { description: "Grafiki na kubki i przykładowe wykonania.", mugGraphics: true });
+    appendMugPreviewLink();
     appendOwnGraphic(meta.name, true);
     return;
   }

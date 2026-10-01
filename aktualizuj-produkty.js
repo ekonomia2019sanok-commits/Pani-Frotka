@@ -19,17 +19,20 @@ const categoryMeta = {
   frotki: {
     name: "Frotki",
     description: "Delikatne dla włosów, lekkie i szyte w krótkich seriach.",
-    image: "zdjecia-kategorii/frotki.jpg"
+    image: "zdjecia-kategorii/frotki.jpg",
+    price: "15 zł"
   },
-  kosmetyczka: {
-    name: "Kosmetyczka",
-    description: "Poręczne kosmetyczki z kobiecymi motywami na co dzień i w podróż.",
-    image: "zdjecia-kategorii/kosmetyczki.jpg"
+  kosmetyczki: {
+    name: "Kosmetyczki",
+    description: "Poręczne kosmetyczki tworzone ręcznie na co dzień i w podróż.",
+    image: "assets/category-crops/kosmetyczki.png",
+    price: "25 zł"
   },
   torby: {
     name: "Torby",
     description: "Ręcznie szyte torby z motywami, które mają charakter.",
-    image: "zdjecia-kategorii/torby.jpg"
+    image: "zdjecia-kategorii/torby.jpg",
+    price: "80 zł"
   },
   workoplecak: {
     name: "Workoplecak",
