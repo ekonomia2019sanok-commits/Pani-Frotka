@@ -3,9 +3,9 @@
 ## Najprostsza ścieżka
 
 1. Dodaj zdjęcie do właściwego folderu, np.:
-   - `zdjecia-produktow/workoplecaki/111.png`
+   - `zdjecia-produktow/workoplecaki/111.webp`
    - `zdjecia-produktow/breloki/nazwa.jpg`
-   - `zdjecia-produktow/torby/Bieszczady/nazwa.png`
+   - `zdjecia-produktow/torby/Bieszczady/nazwa.webp`
 
 2. Otwórz plik `produkty.xlsx`.
 
@@ -13,7 +13,7 @@
    - `kategoria` - np. `Workoplecak`, `Breloki`, `Torby`
    - `seria` - wpisuj tylko dla `Torby`; w innych kategoriach zostaw puste
    - `tytuł` - podpis pod zdjęciem
-   - `zdjęcie` - ścieżka do zdjęcia, np. `zdjecia-produktow/workoplecaki/111.png`
+   - `zdjęcie` - ścieżka do zdjęcia, np. `zdjecia-produktow/workoplecaki/111.webp`
    - `aktywne` - wpisz `tak`
    - `notatka` - opcjonalnie; przy zdjęciach kosmetyczki wpisz `Przód` i `Tył`
 

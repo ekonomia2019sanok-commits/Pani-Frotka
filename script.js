@@ -57,746 +57,746 @@ const fallbackProducts = {
     },
     "Afrykański styl": [
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_01.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_02.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_03.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_04.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_05.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_06.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_07.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_08.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_09.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_10.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_11.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Afrykański styl/SA_12.png"
+        "image": "zdjecia-produktow/torby/Afrykański styl/SA_12.webp"
       }
     ],
     "Anioły Bieszczadzkie": [
       {
-        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_01.png"
+        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_02.png"
+        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_03.png"
+        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_04.png"
+        "image": "zdjecia-produktow/torby/Anioły Bieszczadzkie/ANI_04.webp"
       }
     ],
     "Bieszczady": [
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_01.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_02.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_03.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_04.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_05.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_06.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_07.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_08.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_09.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_10.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_11.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_12.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_12.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_13.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_13.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_15.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_15.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_16.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_16.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_17.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_17.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_18.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_18.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_19.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_19.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_20.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_20.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_21.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_21.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_22.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_22.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_23.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_23.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_24.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_24.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_25.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_25.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_26.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_26.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_27.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_27.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_28.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_28.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_29.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_29.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_30.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_30.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczady/BIES_31.png"
+        "image": "zdjecia-produktow/torby/Bieszczady/BIES_31.webp"
       }
     ],
     "Bieszczadzki klimat": [
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_01_wilk.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_01_wilk.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_02_wilk.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_02_wilk.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_03_niedźwiedź.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_03_niedźwiedź.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_04_rys.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_04_rys.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_05_ żubr.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_05_ żubr.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_06_jeleń.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_06_jeleń.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_07_jastrząb.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzki klimat/BZWK_07_jastrząb.webp"
       }
     ],
     "Bieszczadzkie zwierzęta": [
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_01.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_02.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_03.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_04.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_05.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_06.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_07.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_08.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_09.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_10.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_11.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_12.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_12.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_13.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_13.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_14.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_14.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_15.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_15.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_16.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_16.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_17.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_17.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_18.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_18.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_19.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_19.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_20.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_20.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_21.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_21.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_22.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_22.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_23.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_23.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_24.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_24.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_25.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_25.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_26.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_26.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_27.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_27.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_28.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_28.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_29.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_29.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_30.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_30.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_31.png"
+        "image": "zdjecia-produktow/torby/Bieszczadzkie zwierzęta/BIESZ_31.webp"
       }
     ],
     "Kolorowe Ptaki": [
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_01.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_02.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_03.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_04.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_05.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_06.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_07.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_08.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_09.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_10.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_11.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_12.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_12.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_13.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_13.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_14.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_14.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_15.png"
+        "image": "zdjecia-produktow/torby/Kolorowe Ptaki/KP_15.webp"
       }
     ],
     "Kolorowe zwierzaki": [
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_01.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_02.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_03.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_04.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_05.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_06.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_07.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_08.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_09.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_10.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_11.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_12.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_12.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_13.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_13.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_14.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_14.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_15.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_15.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_16.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_16.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_17.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_17.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_18.png"
+        "image": "zdjecia-produktow/torby/Kolorowe zwierzaki/KZ_18.webp"
       }
     ],
     "Konie": [
       {
-        "image": "zdjecia-produktow/torby/Konie/KO_01.png"
+        "image": "zdjecia-produktow/torby/Konie/KO_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Konie/KO_02.png"
+        "image": "zdjecia-produktow/torby/Konie/KO_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Konie/KO_03.png"
+        "image": "zdjecia-produktow/torby/Konie/KO_03.webp"
       }
     ],
     "Kwiaty": [
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_01.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_02.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_03.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_04.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_05.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_06.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_07.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_08.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_09.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_10.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_11.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_12.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_12.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_13.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_13.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Kwiaty/KW_14.png"
+        "image": "zdjecia-produktow/torby/Kwiaty/KW_14.webp"
       }
     ],
     "Miasta": [
       {
-        "image": "zdjecia-produktow/torby/Miasta/LESKO.png"
+        "image": "zdjecia-produktow/torby/Miasta/LESKO.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Miasta/SANOK.png"
+        "image": "zdjecia-produktow/torby/Miasta/SANOK.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Miasta/ZAGÓRZ.png"
+        "image": "zdjecia-produktow/torby/Miasta/ZAGÓRZ.webp"
       }
     ],
     "Motoryzacja": [
       {
-        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_01.png"
+        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_02.png"
+        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_03.png"
+        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_04.png"
+        "image": "zdjecia-produktow/torby/Motoryzacja/MOTO_04.webp"
       }
     ],
     "Owady": [
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_01.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_02.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_03.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_04.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_05.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_06.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_07.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_08.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_09.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_10.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_11.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_12.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_12.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Owady/OW_13.png"
+        "image": "zdjecia-produktow/torby/Owady/OW_13.webp"
       }
     ],
     "Retro Bieszczady": [
       {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_01.png"
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_02.png"
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_03.png"
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_04.png"
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_05.png"
+        "image": "zdjecia-produktow/torby/Retro Bieszczady/BRET_05.webp"
       }
     ],
     "Rzuć wszystko i jedź w Bieszczady": [
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_01.PNG"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_01.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_02.PNG"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_02.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_03.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_03.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_04.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_04.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_05.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_05.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_06.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_06.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_07.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_07.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_08.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_08.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_09.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_09.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_10.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_10.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_11.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_11.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_12.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_12.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_13.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_13.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_14.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_14.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_15.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_15.jpg"
       },
       {
-        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_16.png"
+        "image": "zdjecia-produktow/torby/Rzuć wszystko i jedź w Bieszczady/RZWB_16.jpg"
       }
     ],
     "Warzywa": [
       {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_01.png"
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_02.png"
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_03.png"
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_04.png"
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Warzywa/WAR_05.png"
+        "image": "zdjecia-produktow/torby/Warzywa/WAR_05.webp"
       }
     ],
     "Zwierzęta profilem": [
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_01.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_02.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_03.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_04.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_05.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_06.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_07.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_08.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_09.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_10.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_11.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_12.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_12.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_13.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_13.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_14.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_14.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_15.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_15.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_16.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_16.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_17.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_17.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_18.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_18.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_19.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_19.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_20.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_20.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_21.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_21.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_22.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta profilem/ZWPR_22.webp"
       }
     ],
     "Zwierzęta żółte tło": [
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_01.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_02.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_03.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_04.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_05.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_06.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_07.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_08.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_09.png"
+        "image": "zdjecia-produktow/torby/Zwierzęta żółte tło/ZWZ_09.webp"
       }
     ],
     "Zwięrzęta Afryki": [
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_01.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_01.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_02.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_02.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_03.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_03.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_04.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_04.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_05.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_05.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_06.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_06.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_07.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_07.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_08.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_08.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_09.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_09.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_10.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_10.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_11.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_11.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_12.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_12.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_13.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_13.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_14.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_14.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_15.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_15.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_16.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_16.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_17.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_17.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_18.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_18.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_19.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_19.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_20.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_20.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_21.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_21.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_22.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_22.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_23.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_23.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_24.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_24.webp"
       },
       {
-        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_25.png"
+        "image": "zdjecia-produktow/torby/Zwięrzęta Afryki/AF_25.webp"
       }
     ]
   },
@@ -808,7 +808,7 @@ const fallbackProducts = {
     },
     "Klasyczne": [
       {
-        "image": "kolekcje/W_2.png",
+        "image": "kolekcje/W_2.webp",
         "title": "Workoplecak klasyczny"
       }
     ]

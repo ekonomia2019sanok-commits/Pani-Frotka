@@ -5,7 +5,7 @@ window.PANI_FROTKA_CATEGORY_DATA = {
     {
       "name": "111",
       "collection": "Workoplecaki",
-      "path": "zdjecia-produktow/workoplecaki/111.png"
+      "path": "zdjecia-produktow/workoplecaki/111.webp"
     }
   ],
   "frotki": [],

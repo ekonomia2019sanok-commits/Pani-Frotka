@@ -25,7 +25,7 @@ const categoryMeta = {
   kosmetyczki: {
     name: "Kosmetyczki",
     description: "Poręczne kosmetyczki tworzone ręcznie na co dzień i w podróż.",
-    image: "assets/category-crops/kosmetyczki.png",
+    image: "assets/category-crops/kosmetyczki.webp",
     price: "25 zł"
   },
   torby: {
