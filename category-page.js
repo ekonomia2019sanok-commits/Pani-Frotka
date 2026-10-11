@@ -289,26 +289,6 @@ function appendOwnGraphic(categoryName, isMug = false) {
   seriesGridPage.appendChild(panel);
 }
 
-function appendMugPreviewLink() {
-  const wrapper = document.createElement("div");
-  wrapper.className = "mug-preview-link";
-
-  const label = document.createElement("p");
-  label.className = "eyebrow";
-  label.textContent = "Podgląd 3D";
-
-  const link = document.createElement("a");
-  link.className = "button button--small button--ghost";
-  link.href = "https://mocka3d.com/p/FBqqTiHV";
-  link.target = "_blank";
-  link.rel = "noopener noreferrer";
-  link.textContent = "Zobacz kubek w 3D";
-  link.setAttribute("aria-label", "Otwórz podgląd kubka 3D w nowej karcie");
-
-  wrapper.append(label, link);
-  seriesGridPage.appendChild(wrapper);
-}
-
 function renderCategory(category, catalog = {}) {
   const meta = category.meta || {};
   const items = Array.isArray(category.items) ? category.items : [];
@@ -335,7 +315,6 @@ function renderCategory(category, catalog = {}) {
   if (pageCategoryKey === "kubki") {
     if (items.length) appendSection("Gotowe wzory kubków", items, { price: true, defaultPrice: meta.price });
     appendSection("Gotowe wzory grafik", patterns, { description: "Grafiki na kubki i przykładowe wykonania.", mugGraphics: true });
-    appendMugPreviewLink();
     appendOwnGraphic(meta.name, true);
     return;
   }
